@@ -92,15 +92,15 @@ export default function Footer() {
             {/* Contact */}
             <div className="flex flex-col gap-2">
               <h2 className="mb-2 uppercase tracking-wide font-bold text-[18px] text-[#c9a227]">
-                Farmers Tractor & Equip Co
+                FARLEY TRACTOR CO., INC.
               </h2>
               <div className="flex flex-col gap-1">
-                <span className="text-[16px]">1132 S Main St </span>
-                <span className="text-[16px]">Porterville, CA 93257</span>
+                <span className="text-[16px]">101 Oak Hill Rd </span>
+                <span className="text-[16px]">Jasper, AL 35504</span>
                 <span className="text-[16px]"> (000) 000-0000</span>
               </div>
             </div>
-
+ 
             {/* Inventory Links */}
             <div className="flex flex-col gap-2">
               <h2 className="mb-2 uppercase tracking-wide font-bold text-[18px] text-[#c9a227]">
@@ -231,7 +231,7 @@ export default function Footer() {
                 className="mt-1"
               />
               <span>
-                I consent to be contacted by Farmers Tractor & Equip Co via phone, email, or SMS regarding this inquiry.
+                I consent to be contacted by FARLEY TRACTOR CO., INC. via phone, email, or SMS regarding this inquiry.
               </span>
             </label>
 

@@ -12,16 +12,16 @@ export default async function sitemap() {
   }
 
   const staticPages = [
-    { url: "https://www.farmerstractors.com/", lastModified: new Date() },
-    { url: "https://www.farmerstractors.com/about", lastModified: new Date() },
-    { url: "https://www.farmerstractors.com/shipping", lastModified: new Date() },
-    { url: "https://www.farmerstractors.com/inventory/agriculture", lastModified: new Date() },
-    { url: "https://www.farmerstractors.com/inventory/construction", lastModified: new Date() },
-    { url: "https://www.farmerstractors.com/inventory/attachments", lastModified: new Date() },
+    { url: "https://www.farley-kubota.com/", lastModified: new Date() },
+    { url: "https://www.farley-kubota.com/about", lastModified: new Date() },
+    { url: "https://www.farley-kubota.com/shipping", lastModified: new Date() },
+    { url: "https://www.farley-kubota.com/inventory/agriculture", lastModified: new Date() },
+    { url: "https://www.farley-kubota.com/inventory/construction", lastModified: new Date() },
+    { url: "https://www.farley-kubota.com/inventory/attachments", lastModified: new Date() },
   ];
 
   const productPages = products.map((p) => ({
-    url: `https://www.farmerstractors.com/products/${p._id.toString()}`,
+    url: `https://www.farley-kubota.com/products/${p._id.toString()}`,
     lastModified: p.updatedAt || new Date(),
   }));
 

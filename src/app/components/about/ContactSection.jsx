@@ -32,9 +32,9 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
                 </h4>
 
                 <p className="text-[#555] leading-relaxed">
-                  1132 S Main St  
+                  101 Oak Hill Rd
                   <br />
-                  Porterville, CA 93257
+                  Jasper, AL 35504
                 </p>
               </div>
             </div>
@@ -90,13 +90,13 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
               </div>
 
               <p className="text-[#555] mb-8">
-                1132 S Main St 
+                101 Oak Hill Rd
                 <br />
-                Porterville, CA 93257
+                Jasper, AL 35504
               </p>
 
               <a
-                href="https://maps.app.goo.gl/gtS6qCrjDmpXy3Dc6"
+                href="https://maps.app.goo.gl/RA6u61n4CHACCQhd6"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#e6c65a] text-black font-semibold px-6 py-3 rounded-xl hover:bg-[#d4b44f] transition-all duration-300"

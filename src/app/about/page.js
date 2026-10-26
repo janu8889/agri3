@@ -77,20 +77,20 @@ export default function About() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-5 mb-12">
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Farmers Tractor & Equip Co delivers comprehensive solutions for pre-owned construction and agricultural equipment. We add value to the sale of each equipment by taking equipment as trades, convenient payment methods, export document preparation, and transportation services.
+          FARLEY TRACTOR CO., INC. delivers comprehensive solutions for pre-owned construction and agricultural equipment. We add value to the sale of each equipment by taking equipment as trades, convenient payment methods, export document preparation, and transportation services.
         </p>
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-5 mb-12">
         <h1 className="text-[24px] md:text-[28px] font-bold text-[#c9a227] mb-4">
-          Farmers Tractor & Equip Co – Sales
+          FARLEY TRACTOR CO., INC. – Sales
         </h1>
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          We started this company as a local, family-owned business in 1947, and have been supporting local and regional businesses and agriculture for decades.
+          We started this company as a local, family-owned business in 1969, and have been supporting local and regional businesses and agriculture for decades.
         </p>
 
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Our company is a multi-brand, family-owned dealer with experience in agricultural and construction machinery and equipment, headquartered in Porterville, CA.
+          Our company is a multi-brand, family-owned dealer with experience in agricultural and construction machinery and equipment, headquartered in Jasper, AL.
         </p>
 
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">

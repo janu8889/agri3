@@ -46,7 +46,7 @@ export default function TopBar() {
             <FaMapMarkerAlt className="text-[#c9a227]" />
             <span></span>
           </div>
-            1132 S Main St, Porterville, CA 93257
+            101 Oak Hill Rd, Jasper, AL 35504
         </div>
 
       </div>
