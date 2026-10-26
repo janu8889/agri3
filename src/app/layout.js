@@ -22,23 +22,23 @@ export const metadata = {
   metadataBase: new URL("https://www.farmerstractors.com"), // pune domeniul tău real
 
   title: {
-    default: "FARLEY TRACTOR CO., INC.",
-    template: "%s | FARLEY TRACTOR CO., INC.",
+    default: "FARLEY TRACTOR CO.",
+    template: "%s | FARLEY TRACTOR CO.",
   },
 
   description:
-    "FARLEY TRACTOR CO., INC. offers high-quality agricultural and construction machinery.",
+    "FARLEY TRACTOR CO. offers high-quality agricultural and construction machinery.",
 
   alternates: {
     canonical: "/", 
   },
 
   openGraph: {
-    title: "FARLEY TRACTOR CO., INC.",
+    title: "FARLEY TRACTOR CO.",
     description:
       "High-quality agricultural and construction machinery.",
     url: "https://www.farmerstractors.com",
-    siteName: "FARLEY TRACTOR CO., INC.",
+    siteName: "FARLEY TRACTOR CO.",
     images: [
       {
         url: "/og-image.jpg",
