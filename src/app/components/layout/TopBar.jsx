@@ -26,7 +26,7 @@ export default function TopBar() {
           <div className="flex items-center space-x-2">
             <FaPhoneAlt className="text-[#c9a227]" />
             <a
-              href="tel: 00000"
+              href="tel:+12052650469"
               onClick={() => {
                 if (typeof window !== "undefined" && window.fbq) {
                   window.fbq("trackCustom", "Contact", {
@@ -37,7 +37,7 @@ export default function TopBar() {
                 }
               }}
             >
-              00000
+              (205) 265-0469
            </a>
            </div> 
 

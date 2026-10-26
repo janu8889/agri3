@@ -97,7 +97,9 @@ export default function Footer() {
               <div className="flex flex-col gap-1">
                 <span className="text-[16px]">101 Oak Hill Rd </span>
                 <span className="text-[16px]">Jasper, AL 35504</span>
-                <span className="text-[16px]"> (000) 000-0000</span>
+                <a className="text-[16px]" href="tel:+12052650469">
+                  (205) 265-0469
+                </a>
               </div>
             </div>
  
